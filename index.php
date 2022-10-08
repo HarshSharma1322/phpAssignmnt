@@ -198,7 +198,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 		 <div class="col-md-5">
 		<a href="https://www.facebook.com/donnieboiii" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Harsh Sharma</a>
 		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+918822118833</h4>
-		<h4 style="font-family:'typo' ">Harsh13sharma22@gmail.com</h4>
+		<h4 style="font-family:'typo' ">snehavashishtha025@gmail.com</h4>
 		<h4 style="font-family:'typo' ">LPU</h4></div></div>
 		</p>
       </div>
